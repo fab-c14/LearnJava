@@ -1,0 +1,22 @@
+first code in jshell,
+JAVA - Core - By NAVIN REDDY
+
+open terminal type jshell
+try some beginner code
+
+java 9 - jshell was introduced 
+
+jshell - prompt 
+
+experiment something 
+
+solve simple problems like 
+what i tried is 
+
+jshell> 2 + 3
+$2 ==> 5
+don't focus on this time now just see how things work
+System.out.print("hello world");
+hello world
+
+and don't forget to add a ; at the end 
