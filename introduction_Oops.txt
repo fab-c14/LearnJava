@@ -1,0 +1,28 @@
+Java is Object oriented programming language
+if i am using pen that is an object everything around us is object.
+every object has two things -> does somethings -> and knows somethings
+and when i am saying that has something -> that are properties,
+and what does it do -> e.g. with pen write something...
+
+whatevery project you are making you will be having something 
+you have to treate everything as object.
+
+for example add two numbers 
+
+looks at this example
+
+public class Demo{
+    public static void main(String a[]){
+
+    }
+}
+
+in order to create an object in java we need to create a class first 
+// object -> class
+// who creates objects in real life 
+company-> makes pen -> 
+company->has prototype (or a design or blueprint) -> to make a pen-> that is class in real life 
+
+here we create a class and give it to jvm and we get object
+lets move to code now 
+this was introduction.
