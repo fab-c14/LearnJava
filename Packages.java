@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 import tools.Calc;
 
-// whihc every class you want to use import it
+// which every class you want to use import it
 // java has inbuild class/interface which we can import
 
 class Packages {
