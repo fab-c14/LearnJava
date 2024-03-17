@@ -1,0 +1,2 @@
+A
+i can also write string with help of BufferedWriter
