@@ -1,6 +1,5 @@
 abstract class A {
     public abstract void show();
-
     public abstract void config();
 }
 
@@ -17,7 +16,7 @@ class B extends A {
 
 public class AbstractAndAnonymousInner {
     public static void main(String[] args) {
-        // using anonymous inner class to impliment abstract method.
+        // using anonymous inner class to impliment abstract method. 
 
         A obj = new A() {
             public void show() {

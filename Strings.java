@@ -2,19 +2,19 @@
 public class Strings {
    public static void main(String args[]){
     // in characters we use single quotes, and strings user double quotes
-    // String name = "Faisal"; // String is not a primitive data type 
-    // String name = new String(); at lower level this is happening// here we got and object 'name' and object will get some memory from heap, 
-    // String ne = new String();
-    // System.out.println(ne);
+   //  String name = "Faisal"; // String is not a primitive data type 
+   //  String names = new String(); //at lower level this is happening// here we got and object 'name' and object will get some memory from heap, 
+   //  String ne = new String();
+   //  System.out.println(ne);
 
-    // but how to we pass data
-    // String ne = new String("here is data");
-    // System.out.println(ne);
-    // System.out.println(ne.charAt(1));
+    // but how do we pass data
+   //  String ne = new String("here is data");
+   //  System.out.println(ne);
+   //  System.out.println(ne.charAt(1));
 
-    // // concat two strings 
+   //  // concat two strings 
 
-    // System.out.println(ne.concat("hello" + "some more data"));
+   //  System.out.println(ne.concat("hello" + "some more data"));
 
 
     // // direct method to create a string 

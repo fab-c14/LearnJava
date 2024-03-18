@@ -10,17 +10,17 @@ class A {
         int age;
 
         public void config() {
-            System.out.println("in config");
+            System.out.println("in b config");
         }
     }
 }
 
 public class InnerClass {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         // how to call config
         A obj = new A();
-        // obj.show();
-        // A.B obj1 = new A.B();
+        obj.show();
+        A.B obj1 = new A.B();
 
         // creating object of b with object of a
 

@@ -5,7 +5,7 @@ and when i am saying that has something -> that are properties,
 and what does it do -> e.g. with pen write something...
 
 whatever project you are making you will be having something 
-you have to treate everything as object.
+you have to treat everything as object.
 
 for example add two numbers 
 

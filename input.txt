@@ -1,0 +1,4 @@
+this is a text file for testing 
+this  is the second line for testing file 
+and so on 
+you can write more and more lines of text 

@@ -23,9 +23,10 @@
 
 // jvm need to be build for os
 
-// jvm says i will run your code but you have to submit me byte code, but not source code, jvm only understands byte code
+// jvm says i will run your code but you have to submit me byte code, but not source code, 
 
-// but jvm only understands - byte code,
+// jvm only understands byte code
+
 
 // but now we have to convert , source code to byte code
 

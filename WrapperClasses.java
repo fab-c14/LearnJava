@@ -12,13 +12,14 @@ public class WrapperClasses {
         // // System.out.println(num1);
         // System.out.println(num2);
 
-        // Integer num3 = num; // boxing - taking primitive value and storing in class
-        // object, it is called
-        // // boxing , boxing is happening automatically
-        // int num4 = num3.intValue(); // unboxing- taking object type a
-        // System.out.println(num4);
-        // int num5 = num3;// auto-unboxing
-
+        Integer num3 = num; // boxing - taking primitive value and storing in class
+        // boxing , boxing is happening automatically
+        int num4 = num3.intValue(); // unboxing- taking object type a
+        System.out.println(num4);
+        System.out.println(num3);
+        int num5 = num3;// auto-unboxing
+        // System.out.println(num3 instanceof Integer);
+        System.out.println();
         String str = "12";
         int num6 = Integer.parseInt(str); // converts string to integer
         System.out.println(num6);

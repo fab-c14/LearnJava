@@ -8,7 +8,7 @@ class Mobile{
         name="Phone";
         System.out.println("In Constructor ");
     }
-    // static block intialize variabeles
+    // static block intialize variables - static blocks are called first 
     static {
         name = "Phone";
         System.out.println("In Static Block");
@@ -21,10 +21,10 @@ class Mobile{
 
 public class StaticBlocks {
     public static void main(String args[]) throws ClassNotFoundException{
-        // Mobile obj1 = new Mobile();
-        // obj1.brand = "Apple";
-        // obj1.price = 1500;
-        // Mobile.name = "SmartPhone";
+        Mobile obj1 = new Mobile();
+        obj1.brand = "Apple";
+        obj1.price = 1500;
+        Mobile.name = "SmartPhone";
 
         // Mobile obj2 = new Mobile();
        
@@ -32,7 +32,7 @@ public class StaticBlocks {
         // everytime - class loads and object are instantiated
         // jvm has class loader, only once, static method will be called first, and then objects will be created, so after that constructor will be created 
 
-         Class.forName("Mobile");// it loads class name is given as parameter // this given an exception for now , so we handled that at
+        //  Class.forName("Mobile");// it loads class name is given as parameter // this given an exception for now , so we handled that at
 
     }
 }

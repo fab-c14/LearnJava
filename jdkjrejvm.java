@@ -2,7 +2,7 @@
 // compile java code -> tool -> JDK (Java Development Kit)
 // java code->complie->bytecode
 
-// jvm - java virtual machine -> machine whihc runs your code.
+// jvm - java virtual machine -> machine which runs your code.
 // when you want to run bytecode you need a space -> that is jvm. (where we execute our code)
 
 // behind the scenes jvm runs code
@@ -10,7 +10,7 @@
 // 
 
 // on top of jvm we have jre - java runtime environment 
-// in jre we have all external files which we need to have when running code
+// in jre we have all external files which we need to have while running code
 
 // jvm is a part of jre and on top of jre we have JDK.
 
